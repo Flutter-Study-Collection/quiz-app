@@ -1,0 +1,14 @@
+{
+    "name": "quiz-app",
+    "version": "1.0.0",
+    "description": "Quiz-app for programming study",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Chanjung Kim",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}

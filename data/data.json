@@ -1,0 +1,38 @@
+{
+    "beginner": [
+        {
+            "question": "What is the capital of France?",
+            "answers": ["Paris", "Berlin", "London", "Madrid"],
+            "correctAnswer": "Paris"
+        },
+        {
+            "question": "What is the largest mammal?",
+            "answers": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+            "correctAnswer": "Blue Whale"
+        }
+    ],
+    "intermediate": [
+        {
+            "question": "Which chemical element has the symbol \"Au\"?",
+            "answers": ["Gold", "Silver", "Copper", "Platinum"],
+            "correctAnswer": "Gold"
+        },
+        {
+            "question": "What is the square root of 144?",
+            "answers": ["12", "14", "16", "18"],
+            "correctAnswer": "12"
+        }
+    ],
+    "hard": [
+        {
+            "question": "What is the heaviest naturally occurring element?",
+            "answers": ["Uranium", "Plutonium", "Osmium", "Iridium"],
+            "correctAnswer": "Uranium"
+        },
+        {
+            "question": "What is the derivative of e^x?",
+            "answers": ["e^x", "xe^(x-1)", "x^2 * e^(x-2)", "1/e^x"],
+            "correctAnswer": "e^x"
+        }
+    ]
+}
